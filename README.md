@@ -13,4 +13,4 @@ Most importantly, Eventsjoy is open for you to build your idea from.
 
 ## Technology
 1. Built in **Nextjs**, **Next API && Magiclink Auth**, with **Graphql** for interacting with the **Nest Js** backend.
-2. All authentication logic is on the frontend, all the extras take place on the backend.
+2. All authentication logic happens via funcitons deployed on the host using Next API, all the extras take place on the backend.
