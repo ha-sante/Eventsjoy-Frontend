@@ -1,5 +1,6 @@
-## Eventsjoy helps you get up and running with an event of any kind, manage payments, signups and tickets distribution all in a click
-Most importantly, Eventsjoy is open for you to build your idea from.
+## Eventsjoy Frontend
+- Eventsjoy helps you get up and running with an event of any kind, manage payments, signups and tickets distribution all in a click
+- Most importantly, Eventsjoy is open for you to build your idea from.
 
 ## Signups
 1. Cloudinary
