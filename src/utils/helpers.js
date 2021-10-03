@@ -1,7 +1,7 @@
 import { toaster } from 'evergreen-ui';
 
 const axios = require('axios');
-const cloudinaryImageUploadAPI = `https://api.Cloudinary.com/v1_1/eventsjoy/image/upload`;
+const cloudinaryImageUploadAPI = "INSERT YOUR CLOUDINARY ENDPOINT HERE";
 
 
 

@@ -1,8 +1,11 @@
+
+// UPON SETUP HERE, WILL GIVE YOU ALL THE VALUES TO SETUP YOUR ACCOUNT
 exports.HERERestLocationAPISecrets = {
-	appId: "9Nc0V782hVMVIixjYDkF",
-	appKey: "NT-mzchWP17oYcSEx5NANCbopCyXwYmfDC3FtvIvoFs",
+	appId: "",
+	appKey: "",
 	appOAuthSecret: {
-		keyId: "lz56fzYv5XLFwqnSXWzcbw",
-		keySecret: "1UYrKJlHVOnPMXzN-pamZuLpV0fekPsZdPkehDgZ00sP9VEdoCkvYYqYzOV9QVlGhltBNgZFRIXMdXkbfJ5wiQ"
+		keyId: "",
+		keySecret: ""
 	}
 }
+

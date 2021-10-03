@@ -14,7 +14,7 @@ exports.searchForLocation = (queryString) => {
  return new Promise((resolve, reject) => {
     axios.get(HEREGeocodeAPI, { 
         params: { 
-            apiKey: "NT-mzchWP17oYcSEx5NANCbopCyXwYmfDC3FtvIvoFs",
+            apiKey: "INSERT YOUR HERE CODE API HERE",
             limit: 5,
             q: queryString
         } 
